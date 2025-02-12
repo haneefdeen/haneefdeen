@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/haneefdeen1" target="blank"><img src="https://img.shields.io/twitter/follow/haneefdeen1?logo=twitter&style=for-the-badge" alt="haneefdeen1" /></a> </p>
 
-- 🌱 I’m currently learning **Frontend development @spotknack**
+- 🌱 I’m currently learning **Frontend development **
 
 - 📫 How to reach me **haneeff2812@gmail.com**
 
