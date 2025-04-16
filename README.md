@@ -6,11 +6,13 @@
 
 <p align="left"> <a href="https://twitter.com/haneefdeen1" target="blank"><img src="https://img.shields.io/twitter/follow/haneefdeen1?logo=twitter&style=for-the-badge" alt="haneefdeen1" /></a> </p>
 
-- 🌱 I’m currently learning **Frontend development**
+- 🚀 Passionate about creating interactive and user-friendly web interfaces
 
-- 📫 How to reach me **haneeff2812@gmail.com**
+- 📚 Actively expanding my knowledge in modern web technologies
 
-- ⚡ A little effort **goes a long way**
+- 📬 Let's connect: **haneeff2812@gmail.com**
+
+- 💡 Motto: "Code with curiosity, build with purpose"
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
